@@ -4,4 +4,6 @@
 =============================
 
  ~ Mars Atmosphere ~
-	The Mars atmosphere is mostly composed of CO2.
+	The Mars atmosphere is mostly composed of CO2[0].
+
+	*[0] See MarsAtmosphericPercents.txt file.
