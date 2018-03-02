@@ -2,3 +2,6 @@
 =============================
 | A little companion planet |
 =============================
+
+ ~ Mars Atmosphere ~
+	The Mars atmosphere is mostly composed of CO2.
